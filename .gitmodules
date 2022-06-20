@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "EBCHS"]
+	path = EBCHS
+	url = https://github.com/dulilun/ebchs
+	shallow = true
+	registered = true
